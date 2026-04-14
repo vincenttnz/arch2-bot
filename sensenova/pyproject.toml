@@ -1,0 +1,76 @@
+[project]
+name = "SenseNova-SI"
+version = "0.1.0"
+description = "Scaling Spatial Intelligence with Multimodal Foundation Models"
+readme = "README.md"
+requires-python = ">=3.11"
+keywords = ["computer vision", "multimodal", "spatial intelligence", "MLLM"]
+dependencies = [
+    "transformers>=4.37.2",
+    "Pillow",
+    "numpy",
+    "setuptools",
+    "einops>=0.8.1",
+    "timm>=1.0.22",
+    "accelerate>=1.11.0",
+    "opencv-python>=4.11.0.86",
+    "pytesseract>=0.3.13",
+    "matplotlib>=3.10.8",
+    "ultralytics>=8.4.31",
+    "mss>=10.1.0",
+    "pygetwindow>=0.0.9",
+    "pydirectinput>=1.0.4",
+    "keyboard>=0.13.5",
+]
+
+[dependency-groups]
+#flash-attn = ["flash-attn==2.7.4.post1"]
+dev = ["ruff==0.14.4"]
+
+[project.optional-dependencies]
+cu118 = ["torch>=2.4.0", "torchvision"]
+cu121 = ["torch>=2.4.0", "torchvision"]
+cu124 = ["torch>=2.4.0", "torchvision"]
+cu126 = ["torch>=2.4.0", "torchvision"]
+cu128 = ["torch>=2.4.0", "torchvision"]
+cu129 = ["torch>=2.4.0", "torchvision"]
+
+[tool.uv]
+default-groups = []
+no-build-isolation-package = ['flash-attn', 'setuptools']
+conflicts = [
+    [
+        { extra = "cu118" },
+        { extra = "cu121" },
+        { extra = "cu124" },
+        { extra = "cu126" },
+        { extra = "cu128" },
+        { extra = "cu129" },
+    ],
+]
+index = [
+    { name = "pytorch-cu118", url = "https://download.pytorch.org/whl/cu118", explicit = true },
+    { name = "pytorch-cu121", url = "https://download.pytorch.org/whl/cu121", explicit = true },
+    { name = "pytorch-cu124", url = "https://download.pytorch.org/whl/cu124", explicit = true },
+    { name = "pytorch-cu126", url = "https://download.pytorch.org/whl/cu126", explicit = true },
+    { name = "pytorch-cu128", url = "https://download.pytorch.org/whl/cu128", explicit = true },
+    { name = "pytorch-cu129", url = "https://download.pytorch.org/whl/cu129", explicit = true },
+]
+
+[tool.uv.sources]
+torch = [
+    { index = "pytorch-cu118", extra = "cu118" },
+    { index = "pytorch-cu121", extra = "cu121" },
+    { index = "pytorch-cu124", extra = "cu124" },
+    { index = "pytorch-cu126", extra = "cu126" },
+    { index = "pytorch-cu128", extra = "cu128" },
+    { index = "pytorch-cu129", extra = "cu129" },
+]
+torchvision = [
+    { index = "pytorch-cu118", extra = "cu118" },
+    { index = "pytorch-cu121", extra = "cu121" },
+    { index = "pytorch-cu124", extra = "cu124" },
+    { index = "pytorch-cu126", extra = "cu126" },
+    { index = "pytorch-cu128", extra = "cu128" },
+    { index = "pytorch-cu129", extra = "cu129" },
+]

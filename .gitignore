@@ -1,0 +1,25 @@
+﻿# Massive Data & Image Folders
+data/
+datasets/
+images/
+labels/
+
+# Virtual Environments & Caches
+.venv/
+venv/
+SenseNova-SI/.venv/
+__pycache__/
+*.py[cod]
+
+# AI Training Runs & Model Weights
+runs/
+models/
+*.pt
+*.pth
+*.weights
+*.onnx
+
+# Logs & OS generated files
+logs/
+Thumbs.db
+desktop.ini

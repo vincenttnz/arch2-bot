@@ -1,0 +1,2 @@
+class StreamCapture:
+    pass

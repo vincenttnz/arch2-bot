@@ -1,0 +1,16 @@
+[project]
+name = "arch2"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "keyboard>=0.13.5",
+    "mss>=10.1.0",
+    "opencv-python>=4.13.0.92",
+    "pydirectinput>=1.0.4",
+    "pygetwindow>=0.0.9",
+    "pytesseract>=0.3.13",
+    "regex>=2026.3.32",
+    "ultralytics>=8.4.32",
+]

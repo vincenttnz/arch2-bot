@@ -1,0 +1,664 @@
+{
+  "priorities": {
+    "beam_strike": 10,
+    "corrosive_field": 10,
+    "front_arrow": 10,
+    "power_trio": 10,
+    "rapid_fire": 10,
+    "revive": 10,
+    "sacred_protection": 10,
+    "slow_field": 10,
+    "tracking_eye": 10,
+    "warriors_soul": 10,
+    "circling_orbs_boost": 9,
+    "diagonal_arrows": 9,
+    "double_strike_swords": 9,
+    "energy_beam": 9,
+    "long_range_power": 9,
+    "soul_of_swiftness": 9,
+    "warriors_heart": 9,
+    "wounded_warrior": 9,
+    "assault_strike": 8,
+    "bane_of_bosses": 8,
+    "fountain_of_life": 8,
+    "frost": 8,
+    "ice_circle": 8,
+    "invincibility_potion": 8,
+    "lightwing_arrow": 8,
+    "lucky_cracker": 8,
+    "stand_strong": 8,
+    "strike_boost": 8,
+    "super_circle": 8,
+    "super_flame": 8,
+    "super_venom": 8,
+    "swift_arrow": 8,
+    "wind_blessing": 8,
+    "atk_increase": 7,
+    "bolt": 7,
+    "bolt_meteor": 7,
+    "breath_of_wind": 7,
+    "demon_slayer": 7,
+    "fairy_of_the_wing": 5,
+    "flame": 7,
+    "lucky_heart": 7,
+    "angelic_shelter": 6,
+    "cloudfooted": 6,
+    "giants_strength": 6,
+    "heart_of_vitality": 6,
+    "instant_strike": 6,
+    "lucky_band_aid": 6,
+    "perilous_fervor": 6,
+    "piercing_arrow": 6,
+    "plant_guardian": 6,
+    "ricocheting_arrow": 6,
+    "underworld_warrior": 6,
+    "aqua_flight": 5,
+    "backward_arrow": 5,
+    "fire_circle": 5,
+    "frenzy_potion": 5,
+    "perilous_recovery": 5,
+    "pursuit_strike": 5,
+    "sprite_boost": 5,
+    "thunder_circle": 5,
+    "venom_circle": 5,
+    "vine_pursuit": 5,
+    "bouncing_arrow": 4,
+    "lightning_meteor_potion": 4,
+    "sprite_king": 4,
+    "super_meteor": 4,
+    "wall_piercing_arrow": 4,
+    "warriors_breath": 4,
+    "blitz_strike": 3,
+    "bomb_sprite": 3,
+    "cloud_footed": 3,
+    "fairys_breath": 3,
+    "flame_meteor_potion": 3,
+    "rotating_web": 3,
+    "short_range_strike": 3,
+    "split_shot": 3,
+    "super_frost": 3,
+    "weapon_enchantment": 3,
+    "abundant_potion": 2,
+    "breath_of_the_wind": 2,
+    "charged_arrow": 2,
+    "demon_recovery": 2,
+    "demon_slaying_meteor": 2,
+    "flame_sprite": 2,
+    "ice_spike_sprite": 2,
+    "lightning_sprite": 2,
+    "rapid_fire_meteors": 2,
+    "soul_of_strength": 2,
+    "vampiric_circle": 2,
+    "venom_meteor_potion": 2,
+    "venom_sprite": 2,
+    "burning_path": 1,
+    "frost_meteor_potion": 1,
+    "restore_hp": 1,
+    "strength_blood": 1,
+    "strike_potion": 1,
+    "riposte_strike": 0,
+    "life_conversion": 6,
+    "beam_circle": 6,
+    "twin_bloom": 6,
+    "diagonal_arrow": 7,
+    "energy_ring": 7,
+    "super_freeze": 7,
+    "01": 7,
+    "insect_lure": 7,
+    "venom": 0,
+    "error": 7,
+    "combat_data": 7,
+    "start": 7,
+    "cat_s_purr": 7,
+    "none": 7,
+    "glory": 7,
+    "exact_skill_name": 7,
+    "junk": 7
+  },
+  "aliases": {
+    "beam_strike": [
+      "beam strike",
+      "beam-strike",
+      "beam_strike"
+    ],
+    "corrosive_field": [
+      "corrosive field",
+      "corrosive-field",
+      "corrosive_field"
+    ],
+    "front_arrow": [
+      "front arrow",
+      "front-arrow",
+      "front_arrow"
+    ],
+    "power_trio": [
+      "power trio",
+      "power-trio",
+      "power_trio"
+    ],
+    "rapid_fire": [
+      "rapid fire",
+      "rapid-fire",
+      "rapid_fire"
+    ],
+    "revive": [
+      "revive"
+    ],
+    "sacred_protection": [
+      "sacred protection",
+      "sacred-protection",
+      "sacred_protection"
+    ],
+    "slow_field": [
+      "slow field",
+      "slow-field",
+      "slow_field"
+    ],
+    "tracking_eye": [
+      "tracking eye",
+      "tracking-eye",
+      "tracking_eye"
+    ],
+    "warriors_soul": [
+      "warrior's soul",
+      "warrior's-soul",
+      "warrior's_soul"
+    ],
+    "circling_orbs_boost": [
+      "circling orbs boost",
+      "circling-orbs-boost",
+      "circling_orbs_boost"
+    ],
+    "diagonal_arrows": [
+      "diagonal arrows",
+      "diagonal-arrows",
+      "diagonal_arrows"
+    ],
+    "double_strike_swords": [
+      "double strike swords",
+      "double-strike-swords",
+      "double_strike_swords"
+    ],
+    "energy_beam": [
+      "energy beam",
+      "energy-beam",
+      "energy_beam"
+    ],
+    "long_range_power": [
+      "long-range power",
+      "long-range-power",
+      "long-range_power"
+    ],
+    "soul_of_swiftness": [
+      "soul of swiftness",
+      "soul-of-swiftness",
+      "soul_of_swiftness"
+    ],
+    "warriors_heart": [
+      "warrior's heart",
+      "warrior's-heart",
+      "warrior's_heart"
+    ],
+    "wounded_warrior": [
+      "wounded warrior",
+      "wounded-warrior",
+      "wounded_warrior"
+    ],
+    "assault_strike": [
+      "assault strike",
+      "assault-strike",
+      "assault_strike"
+    ],
+    "bane_of_bosses": [
+      "bane of bosses",
+      "bane-of-bosses",
+      "bane_of_bosses"
+    ],
+    "fountain_of_life": [
+      "fountain of life",
+      "fountain-of-life",
+      "fountain_of_life"
+    ],
+    "frost": [
+      "frost"
+    ],
+    "ice_circle": [
+      "ice circle",
+      "ice-circle",
+      "ice_circle"
+    ],
+    "invincibility_potion": [
+      "invincibility potion",
+      "invincibility-potion",
+      "invincibility_potion"
+    ],
+    "lightwing_arrow": [
+      "lightwing arrow",
+      "lightwing-arrow",
+      "lightwing_arrow"
+    ],
+    "lucky_cracker": [
+      "lucky cracker",
+      "lucky-cracker",
+      "lucky_cracker"
+    ],
+    "stand_strong": [
+      "stand strong",
+      "stand-strong",
+      "stand_strong"
+    ],
+    "strike_boost": [
+      "strike boost",
+      "strike-boost",
+      "strike_boost"
+    ],
+    "super_circle": [
+      "super circle",
+      "super-circle",
+      "super_circle"
+    ],
+    "super_flame": [
+      "super flame",
+      "super-flame",
+      "super_flame"
+    ],
+    "super_venom": [
+      "super venom",
+      "super-venom",
+      "super_venom"
+    ],
+    "swift_arrow": [
+      "swift arrow",
+      "swift-arrow",
+      "swift_arrow"
+    ],
+    "wind_blessing": [
+      "wind blessing",
+      "wind-blessing",
+      "wind_blessing"
+    ],
+    "atk_increase": [
+      "atk increase",
+      "atk-increase",
+      "atk_increase"
+    ],
+    "bolt": [
+      "bolt"
+    ],
+    "bolt_meteor": [
+      "bolt meteor",
+      "bolt-meteor",
+      "bolt_meteor"
+    ],
+    "breath_of_wind": [
+      "breath of wind",
+      "breath-of-wind",
+      "breath_of_wind"
+    ],
+    "demon_slayer": [
+      "demon slayer",
+      "demon-slayer",
+      "demon_slayer"
+    ],
+    "fairy_of_the_wing": [
+      "fairy of the wind",
+      "fairy-of-the-wind",
+      "fairy_of_the_wind"
+    ],
+    "flame": [
+      "flame"
+    ],
+    "lucky_heart": [
+      "lucky heart",
+      "lucky-heart",
+      "lucky_heart"
+    ],
+    "angelic_shelter": [
+      "angelic shelter",
+      "angelic-shelter",
+      "angelic_shelter"
+    ],
+    "cloudfooted": [
+      "cloudfooted"
+    ],
+    "giants_strength": [
+      "giant's strength",
+      "giant's-strength",
+      "giant's_strength"
+    ],
+    "heart_of_vitality": [
+      "heart of vitality",
+      "heart-of-vitality",
+      "heart_of_vitality"
+    ],
+    "instant_strike": [
+      "instant strike",
+      "instant-strike",
+      "instant_strike"
+    ],
+    "lucky_band_aid": [
+      "lucky band-aid",
+      "lucky-band-aid",
+      "lucky_band-aid"
+    ],
+    "perilous_fervor": [
+      "perilous fervor",
+      "perilous-fervor",
+      "perilous_fervor"
+    ],
+    "piercing_arrow": [
+      "piercing arrow",
+      "piercing-arrow",
+      "piercing_arrow"
+    ],
+    "plant_guardian": [
+      "plant guardian",
+      "plant-guardian",
+      "plant_guardian"
+    ],
+    "ricocheting_arrow": [
+      "ricocheting arrow",
+      "ricocheting-arrow",
+      "ricocheting_arrow"
+    ],
+    "underworld_warrior": [
+      "underworld warrior",
+      "underworld-warrior",
+      "underworld_warrior"
+    ],
+    "aqua_flight": [
+      "aqua flight",
+      "aqua-flight",
+      "aqua_flight"
+    ],
+    "backward_arrow": [
+      "backward arrow",
+      "backward-arrow",
+      "backward_arrow"
+    ],
+    "fire_circle": [
+      "fire circle",
+      "fire-circle",
+      "fire_circle"
+    ],
+    "frenzy_potion": [
+      "frenzy potion",
+      "frenzy-potion",
+      "frenzy_potion"
+    ],
+    "perilous_recovery": [
+      "perilous recovery",
+      "perilous-recovery",
+      "perilous_recovery"
+    ],
+    "pursuit_strike": [
+      "pursuit strike",
+      "pursuit-strike",
+      "pursuit_strike"
+    ],
+    "sprite_boost": [
+      "sprite boost",
+      "sprite-boost",
+      "sprite_boost"
+    ],
+    "thunder_circle": [
+      "thunder circle",
+      "thunder-circle",
+      "thunder_circle"
+    ],
+    "venom_circle": [
+      "venom circle",
+      "venom-circle",
+      "venom_circle"
+    ],
+    "vine_pursuit": [
+      "vine pursuit",
+      "vine-pursuit",
+      "vine_pursuit"
+    ],
+    "bouncing_arrow": [
+      "bouncing arrow",
+      "bouncing-arrow",
+      "bouncing_arrow"
+    ],
+    "lightning_meteor_potion": [
+      "lightning meteor potion",
+      "lightning-meteor-potion",
+      "lightning_meteor_potion"
+    ],
+    "sprite_king": [
+      "sprite king",
+      "sprite-king",
+      "sprite_king"
+    ],
+    "super_meteor": [
+      "super meteor",
+      "super-meteor",
+      "super_meteor"
+    ],
+    "wall_piercing_arrow": [
+      "wall-piercing arrow",
+      "wall-piercing-arrow",
+      "wall-piercing_arrow"
+    ],
+    "warriors_breath": [
+      "warrior's breath",
+      "warrior's-breath",
+      "warrior's_breath"
+    ],
+    "blitz_strike": [
+      "blitz strike",
+      "blitz-strike",
+      "blitz_strike"
+    ],
+    "bomb_sprite": [
+      "bomb sprite",
+      "bomb-sprite",
+      "bomb_sprite"
+    ],
+    "cloud_footed": [
+      "cloud footed",
+      "cloud-footed",
+      "cloud_footed"
+    ],
+    "fairys_breath": [
+      "fairy's breath",
+      "fairy's-breath",
+      "fairy's_breath"
+    ],
+    "flame_meteor_potion": [
+      "flame meteor potion",
+      "flame-meteor-potion",
+      "flame_meteor_potion"
+    ],
+    "rotating_web": [
+      "rotating web",
+      "rotating-web",
+      "rotating_web"
+    ],
+    "short_range_strike": [
+      "short range strike",
+      "short-range strike",
+      "short-range-strike",
+      "short-range_strike",
+      "short_range_strike"
+    ],
+    "split_shot": [
+      "split shot",
+      "split-shot",
+      "split_shot"
+    ],
+    "super_frost": [
+      "super frost",
+      "super-frost",
+      "super_frost"
+    ],
+    "weapon_enchantment": [
+      "weapon enchantment",
+      "weapon-enchantment",
+      "weapon_enchantment"
+    ],
+    "abundant_potion": [
+      "abundant potion",
+      "abundant-potion",
+      "abundant_potion"
+    ],
+    "breath_of_the_wind": [
+      "breath of the wind",
+      "breath-of-the-wind",
+      "breath_of_the_wind"
+    ],
+    "charged_arrow": [
+      "charged arrow",
+      "charged-arrow",
+      "charged_arrow"
+    ],
+    "demon_recovery": [
+      "demon recovery",
+      "demon-recovery",
+      "demon_recovery"
+    ],
+    "demon_slaying_meteor": [
+      "demon slaying meteor",
+      "demon-slaying-meteor",
+      "demon_slaying_meteor"
+    ],
+    "flame_sprite": [
+      "flame sprite",
+      "flame-sprite",
+      "flame_sprite"
+    ],
+    "ice_spike_sprite": [
+      "ice spike sprite",
+      "ice-spike-sprite",
+      "ice_spike_sprite"
+    ],
+    "lightning_sprite": [
+      "lightning sprite",
+      "lightning-sprite",
+      "lightning_sprite"
+    ],
+    "rapid_fire_meteors": [
+      "rapid fire meteors",
+      "rapid-fire-meteors",
+      "rapid_fire_meteors"
+    ],
+    "soul_of_strength": [
+      "soul of strength",
+      "soul-of-strength",
+      "soul_of_strength"
+    ],
+    "vampiric_circle": [
+      "vampiric circle",
+      "vampiric-circle",
+      "vampiric_circle"
+    ],
+    "venom_meteor_potion": [
+      "venom meteor potion",
+      "venom-meteor-potion",
+      "venom_meteor_potion"
+    ],
+    "venom_sprite": [
+      "venom sprite",
+      "venom-sprite",
+      "venom_sprite"
+    ],
+    "burning_path": [
+      "burning path",
+      "burning-path",
+      "burning_path"
+    ],
+    "frost_meteor_potion": [
+      "frost meteor potion",
+      "frost-meteor-potion",
+      "frost_meteor_potion"
+    ],
+    "restore_hp": [
+      "restore hp",
+      "restore-hp",
+      "restore_hp"
+    ],
+    "strength_blood": [
+      "strength blood",
+      "strength-blood",
+      "strength_blood"
+    ],
+    "strike_potion": [
+      "strike potion",
+      "strike-potion",
+      "strike_potion"
+    ],
+    "riposte_strike": [
+      "riposte strike",
+      "riposte-strike",
+      "riposte_strike"
+    ],
+    "life_conversion": [
+      "life conversion",
+      "life-conversion",
+      "life_conversion"
+    ],
+    "beam_circle": [
+      "beam circle",
+      "beam-circle",
+      "beam_circle"
+    ],
+    "twin_bloom": [
+      "twin bloom",
+      "twin-bloom",
+      "twin_bloom"
+    ],
+    "diagonal_arrow": [
+      "diagonal arrow",
+      "diagonal-arrow",
+      "diagonal_arrow"
+    ],
+    "energy_ring": [
+      "energy ring",
+      "energy-ring",
+      "energy_ring"
+    ],
+    "super_freeze": [
+      "super freeze",
+      "super-freeze",
+      "super_freeze"
+    ],
+    "01": [
+      "01"
+    ],
+    "insect_lure": [
+      "insect lure",
+      "insect-lure",
+      "insect_lure"
+    ],
+    "venom": [
+      "venom",
+      "venom",
+      "venom"
+    ],
+    "error": [
+      "error"
+    ],
+    "combat_data": [
+      "combat data"
+    ],
+    "start": [
+      "start"
+    ],
+    "cat_s_purr": [
+      "cat's purr"
+    ],
+    "none": [
+      "none"
+    ],
+    "glory": [
+      "glory"
+    ],
+    "exact_skill_name": [
+      "exact skill name"
+    ],
+    "junk": [
+      "junk"
+    ]
+  }
+}

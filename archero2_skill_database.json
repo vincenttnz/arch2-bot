@@ -1,0 +1,1022 @@
+{
+  "source": "local",
+  "skills": [
+    {
+      "name": "Beam Strike",
+      "tier": "S",
+      "rarity": "Legendary",
+      "category": "strike",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Corrosive Field",
+      "tier": "S",
+      "rarity": "Legendary",
+      "category": "utility",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Front Arrow",
+      "tier": "S",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Power Trio",
+      "tier": "S",
+      "rarity": "Legendary",
+      "category": "utility",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Rapid Fire",
+      "tier": "S",
+      "rarity": "Legendary",
+      "category": "main_weapon",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Revive",
+      "tier": "S",
+      "rarity": "Epic",
+      "category": "utility",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Sacred Protection",
+      "tier": "S",
+      "rarity": "Legendary",
+      "category": "utility",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Slow Field",
+      "tier": "D",
+      "rarity": "Epic",
+      "category": "utility",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Tracking Eye",
+      "tier": "S",
+      "rarity": "Epic",
+      "category": "utility",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Warrior's Soul",
+      "tier": "S",
+      "rarity": "Legendary",
+      "category": "stat",
+      "priority": 10,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Circling Orbs Boost",
+      "tier": "S",
+      "rarity": "Rare",
+      "category": "circle",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Diagonal Arrows",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "main_weapon",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Double Strike Swords",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "strike",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Energy Beam",
+      "tier": "A",
+      "rarity": "Legendary",
+      "category": "charge",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Long-Range Power",
+      "tier": "S",
+      "rarity": "Fine",
+      "category": "main_weapon",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Soul of Swiftness",
+      "tier": "S",
+      "rarity": "Epic",
+      "category": "stat",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Warrior's Heart",
+      "tier": "D",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Wounded Warrior",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "stat",
+      "priority": 9,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Assault Strike",
+      "tier": "A",
+      "rarity": "Fine",
+      "category": "strike",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Bane of Bosses",
+      "tier": "A",
+      "rarity": "Fine",
+      "category": "utility",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Fountain of Life",
+      "tier": "D",
+      "rarity": "Rare",
+      "category": "healing",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Frost",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "element",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Ice Circle",
+      "tier": "A",
+      "rarity": "Fine",
+      "category": "circle",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Invincibility Potion",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "potion",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Lightwing Arrow",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "charge",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Lucky Cracker",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "luck",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Stand Strong",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Strike Boost",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "strike",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Super Circle",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "circle",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Super Flame",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "element",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Super Venom",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "element",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Swift Arrow",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Wind Blessing",
+      "tier": "A",
+      "rarity": "Epic",
+      "category": "utility",
+      "priority": 8,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Atk Increase",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Bolt",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "element",
+      "priority": 7,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Bolt Meteor",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Breath Of Wind",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Cat's Purr",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Combat Data",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Demon Slayer",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 7,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Diagonal Arrow",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Energy Ring",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Error",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Exact Skill Name",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Fairy Of The Wing",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Flame",
+      "tier": "A",
+      "rarity": "Rare",
+      "category": "element",
+      "priority": 7,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Junk",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Lucky Heart",
+      "tier": "D",
+      "rarity": "Rare",
+      "category": "healing",
+      "priority": 7,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "None",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Start",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "auto_discovered",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Auto-labeled by SenseNova"
+    },
+    {
+      "name": "Super Freeze",
+      "tier": "Template",
+      "rarity": "Template",
+      "category": "imported_template",
+      "priority": 7,
+      "enabled": true,
+      "notes": "Imported from PNG template crop"
+    },
+    {
+      "name": "Angelic Shelter",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Beam Circle",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "circle",
+      "priority": 6,
+      "enabled": true,
+      "notes": "Added from screenshot"
+    },
+    {
+      "name": "Cloudfooted",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 6,
+      "enabled": true,
+      "notes": "Added from in-game screenshot"
+    },
+    {
+      "name": "Giant's Strength",
+      "tier": "B",
+      "rarity": "Epic",
+      "category": "stat",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Heart of Vitality",
+      "tier": "D",
+      "rarity": "Rare",
+      "category": "healing",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Instant Strike",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "strike",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Life Conversion",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "healing",
+      "priority": 6,
+      "enabled": true,
+      "notes": "Added from screenshot"
+    },
+    {
+      "name": "Lucky Band-Aid",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "luck",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Perilous Fervor",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "stat",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Piercing Arrow",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Plant Guardian",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "sprite",
+      "priority": 6,
+      "enabled": true,
+      "notes": "Added from in-game screenshot"
+    },
+    {
+      "name": "Ricocheting Arrow",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Twin Bloom",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "sprite",
+      "priority": 6,
+      "enabled": true,
+      "notes": "Added from screenshot"
+    },
+    {
+      "name": "Underworld Warrior",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 6,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Aqua Flight",
+      "tier": "D",
+      "rarity": "Epic",
+      "category": "utility",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Backward Arrow",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "main_weapon",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Fairy of the Wind",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Fire Circle",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "circle",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Frenzy Potion",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "potion",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Perilous Recovery",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "healing",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Pursuit Strike",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "strike",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Sprite Boost",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "sprite",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Thunder Circle",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "circle",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Venom",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "element",
+      "priority": 5,
+      "enabled": true,
+      "notes": "Projectiles poison enemies"
+    },
+    {
+      "name": "Venom Circle",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "circle",
+      "priority": 5,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Vine Pursuit",
+      "tier": "B",
+      "rarity": "Epic",
+      "category": "sprite",
+      "priority": 5,
+      "enabled": true,
+      "notes": "Added from in-game screenshot"
+    },
+    {
+      "name": "Bouncing Arrow",
+      "tier": "B",
+      "rarity": "Fine",
+      "category": "main_weapon",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Lightning Meteor Potion",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "meteor",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Sprite King",
+      "tier": "B",
+      "rarity": "Legendary",
+      "category": "sprite",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Super Meteor",
+      "tier": "B",
+      "rarity": "Legendary",
+      "category": "meteor",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Toxic Meteor",
+      "tier": "B",
+      "rarity": "Rare",
+      "category": "element",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Wall-Piercing Arrow",
+      "tier": "C",
+      "rarity": "Epic",
+      "category": "main_weapon",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Warrior's Breath",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "stat",
+      "priority": 4,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Blitz Strike",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "strike",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Bomb Sprite",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "sprite",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Cloud Footed",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "utility",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Fairy's Breath",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "stat",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Flame Meteor Potion",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "meteor",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Rotating Web",
+      "tier": "C",
+      "rarity": "Legendary",
+      "category": "circle",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Short-range Strike",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Split Shot",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "main_weapon",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Super Frost",
+      "tier": "C",
+      "rarity": "Epic",
+      "category": "element",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Weapon Enchantment",
+      "tier": "C",
+      "rarity": "Epic",
+      "category": "main_weapon",
+      "priority": 3,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Abundant Potion",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "potion",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Breath of the Wind",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "utility",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Charged Arrow",
+      "tier": "C",
+      "rarity": "Rare",
+      "category": "charge",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Demon Recovery",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "healing",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Demon Slaying Meteor",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "meteor",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Flame Sprite",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "sprite",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Ice Spike Sprite",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "sprite",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Lightning Sprite",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "sprite",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Rapid Fire Meteors",
+      "tier": "C",
+      "rarity": "Epic",
+      "category": "meteor",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Soul of Strength",
+      "tier": "C",
+      "rarity": "Legendary",
+      "category": "stat",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Vampiric Circle",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "circle",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Venom Meteor Potion",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "meteor",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Venom Sprite",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "sprite",
+      "priority": 2,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Burning Path",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "utility",
+      "priority": 1,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Frost Meteor Potion",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "meteor",
+      "priority": 1,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Restore HP",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "healing",
+      "priority": 1,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Strength Blood",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "stat",
+      "priority": 1,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Strike Potion",
+      "tier": "C",
+      "rarity": "Fine",
+      "category": "potion",
+      "priority": 1,
+      "enabled": true,
+      "notes": ""
+    },
+    {
+      "name": "Riposte Strike",
+      "tier": "D",
+      "rarity": "Fine",
+      "category": "strike",
+      "priority": 0,
+      "enabled": true,
+      "notes": ""
+    }
+  ]
+}

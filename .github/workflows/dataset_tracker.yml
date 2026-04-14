@@ -1,0 +1,26 @@
+name: Archero 2 Dataset Tracker
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'data/labeled_frames/**'
+      - 'core/templates/skills/**'
+
+jobs:
+  track-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+      - name: Run Dataset Scanner
+        run: python dataset_scanner.py > DATASET_REPORT.md
+      - name: Commit Report
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add DATASET_REPORT.md
+          git commit -m "Auto-update dataset report [skip ci]" || echo "No changes to commit"
+          git push

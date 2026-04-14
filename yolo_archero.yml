@@ -1,0 +1,13 @@
+# YOLOv8 Archero 2 Combat Configuration
+
+# Path to your dataset (Keep it absolute or relative to where you run train.py)
+path: ./data/yolo_dataset
+train: images/train
+val: images/val
+
+# Classes
+nc: 3
+names:
+  0: player
+  1: enemy
+  2: projectile

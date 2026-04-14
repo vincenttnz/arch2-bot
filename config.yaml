@@ -1,0 +1,8 @@
+adb:
+  device_id: "127.0.0.1:7555"
+  adb_path: "adb"
+  scrcpy_path: "scrcpy"
+
+bot:
+  skill_pick_cooldown_sec: 1.2
+  preferred_skills_limit: 10

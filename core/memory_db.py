@@ -1,0 +1,2 @@
+class MemoryDB:
+    pass

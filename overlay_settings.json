@@ -1,0 +1,13 @@
+{
+  "show_cards": true,
+  "show_icon_roi": true,
+  "show_title_roi": true,
+  "show_labels": true,
+  "scale": 0.75,
+  "banner_brightness_min": 150.0,
+  "banner_sat_min": 35.0,
+  "banner_yellow_ratio_min": 0.08,
+  "subtitle_brightness_min": 110.0,
+  "card_edge_density_min": 0.025,
+  "card_blue_ratio_min": 0.1
+}
